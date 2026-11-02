@@ -1,2 +1,3 @@
-# sherbet-gfx
-SHERBET 그래픽 전환 업데이트 배포용
+# SHERBET 그래픽 전환
+
+업데이트 배포 전용 저장소입니다.
